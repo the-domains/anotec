@@ -1,7 +1,7 @@
 name: ANOTEC
 favicon: null
 layout_spectrum: 0.790985498111695
-typography_spectrum: 0.8287457211408764
+typography_spectrum: 0.49482
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7016209855210036
+    - '#1774a0'
+    - '#a6ce39'
+    - '#000000'
+    - '#00ffff'
+    - '#ffffff'
+  brandStrength: 0.5
   lightness: 0.8306354689411819
   saturation: 0.2508599688299
   rhythmicContrast: 0.095735291717574
