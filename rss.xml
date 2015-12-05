@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ANOTEC]]></title>
-        <description><![CDATA[ANOTEC]]></description>
+        <title><![CDATA[anotec environmental]]></title>
+        <description><![CDATA[anotec environmental]]></description>
         <link>https://thegrid.ai/anotec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 23:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2015 23:49:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anotec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/anotec/1b23e760-0a23-4d5d-8c14-b5bc894ff967/index.html</link>
             <guid isPermaLink="false">1b23e760-0a23-4d5d-8c14-b5bc894ff967</guid>
             <pubDate>Sat, 05 Dec 2015 23:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/anotec/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">8e789427-bb1d-4784-b182-13e4246552e4</guid>
-            <pubDate>Sat, 05 Dec 2015 23:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
