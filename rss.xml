@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ANOTEC]]></title>
         <description><![CDATA[ANOTEC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anotec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 23:03:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 23:04:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anotec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/anotec/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">8e789427-bb1d-4784-b182-13e4246552e4</guid>
-            <pubDate>Sat, 05 Dec 2015 23:03:48 GMT</pubDate>
+            <pubDate>Sat, 05 Dec 2015 23:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
