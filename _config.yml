@@ -1,30 +1,79 @@
-typography_spectrum: 0.49482
+typography_spectrum: 0.1612532588187605
 color:
+  saturation: 0.469534
+  brandStrength: 0.2105025635100901
+  lightness: 0.4623656
   brandColors:
-    - '#1774a0'
-    - '#a6ce39'
+    - '#B52323'
     - '#000000'
-    - '#00ffff'
-    - '#ffffff'
-  brandStrength: 0.5
-  lightness: 0.8306354689411819
-  saturation: 0.2508599688299
-  rhythmicContrast: 0.095735291717574
+    - '#FBF5F5'
+    - '#3D3D3D'
+    - '#BCBCBC'
+  rhythmicContrast: 0.4426523
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.790985498111695
+layout_spectrum: 0.2183562109712511
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-name: ANOTEC
+author:
+  name: John Zavras
+  email: john@anotec.com.au
+  url: 'http://anotec.com.au'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
+name: 'Anotec Environmental '
 cta:
-  domain: null
   bucket: null
   version: null
-favicon: null
-title: anotec environmental
-description: stick our nose in your business
-purpose: []
+  domain: null
+navigation:
+  - name: ABOUT US
+    id: 8e789427-bb1d-4784-b182-13e4246552e4
+    type: content
+  - name: R & D
+    id: 1b23e760-0a23-4d5d-8c14-b5bc894ff967
+    type: content
+  - name: 'Products '
+    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+    type: content
+  - name: 'GECA Approval '
+    id: 2d16c497-d235-45c1-83af-4b56e3f70a57
+    type: content
+  - name: 'Services '
+    id: 10e6fe10-49ec-4a50-8792-e4b1251f5104
+    type: content
+  - name: 'Safety Data '
+    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    type: content
+  - name: applications
+    id: 3d13138c-2f45-4ba1-9988-6ff8cbfc9c24
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Anotec environmental Pty Ltd
+content: []
+description: solutions for you
+purpose:
+  - type: contact
+    url: 'tel:0297001222'
+    label: Call 02 9700 1222
+  - type: contact
+    url: 'mailto:service@anotec.com.au'
+    label: Contact us
