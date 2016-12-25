@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Sentiel System '
-dateModified: '2016-12-25T20:06:55.239Z'
-datePublished: '2016-12-25T20:06:56.250Z'
+dateModified: '2016-12-25T20:09:32.242Z'
+datePublished: '2016-12-25T20:09:33.385Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-25T20:06:54.098Z'
+datePublishedOriginal: '2016-12-25T20:09:29.873Z'
 sourcePath: _posts/2016-12-25-sentiel-system.md
 url: sentiel-system/index.html
 _type: Article
@@ -66,9 +66,9 @@ Nozzle - Celcon(r)
 
 H (incl collar): 51 cm  
 W (max w/ nozzles): 107 cmW (enclosure only): 36 cmD: 22 cm
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78d1cff9-e0cd-44dc-8ab4-639418ee73de.png)
 
 14 kg
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78d1cff9-e0cd-44dc-8ab4-639418ee73de.png)
 
 ---
 
