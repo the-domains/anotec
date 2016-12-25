@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Two Nozzle Fogger For Extreme Conditions
-dateModified: '2016-12-25T20:21:49.801Z'
-datePublished: '2016-12-25T20:21:51.320Z'
+dateModified: '2016-12-25T20:22:54.499Z'
+datePublished: '2016-12-25T20:22:55.288Z'
 title: Sentinel System
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 
 **Two Nozzle Fogger For Extreme Conditions**
 
-* The 5700 power head is designed for tough areas - where corrosive gases challenge conventional materials, or airborne dust might quickly clog a conventional air intake filter.
+* The power head is designed for tough areas - where corrosive gases challenge conventional materials, or airborne dust might quickly clog a conventional air intake filter.
 * Interior components are protected by the gasketed weathertight housing, check valves in nozzle lines and a 2-inch collar for ducted clean air. Simply bolt or hang the NEMA 4 enclosure to a wall or ceiling, plug into a power outlet and attach a low pressure liquid feed line. The fogger is ready to operate.
 * Intake air is drawn from user-supplied ducting leading to clean air. No fan is necessary, but ducting must be properly sized for air flows (consult factory if in doubt). Also, if unit will be operated in freezing environments, we suggest that intake ducting be routed to temper the intake air somewhat.
 * The power head activates when it detects liquid feed; no control wiring is needed. When your needs change, relocate heads or add more. Just connect the liquid supply line and the connection to input air.
