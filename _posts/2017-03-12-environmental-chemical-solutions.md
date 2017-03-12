@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-12T04:52:51.611Z'
-datePublished: '2017-03-12T04:52:53.068Z'
+dateModified: '2017-03-12T04:53:16.361Z'
+datePublished: '2017-03-12T04:53:17.515Z'
 title: Environmental Chemical Solutions
 author: []
 publisher: {}
@@ -46,3 +46,4 @@ _type: Blurb
 * Anotec Laundry Detergent (Powder)
 * Anotec Mould Cleaner 
 * Anotec Adhesive Remover
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d900bbfc-0b10-44a9-b361-370e10a96d84.jpg)
