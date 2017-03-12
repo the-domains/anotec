@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-12T02:01:31.064Z'
+datePublished: '2017-03-12T02:33:54.424Z'
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-12T01:56:54.960Z'
+dateModified: '2017-03-12T02:33:53.516Z'
 title: ABOUT US
 publisher: {}
 description: >-
@@ -43,9 +43,7 @@ Anotec Environmental is working towards continuous product development and persi
 
 We are committed to helping you increase your profits that would open doors for wider and bigger business opportunities.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04233b49-f195-47ed-85cf-1b244589d199.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c6bd088-95cd-4ca1-a3d4-d44f0a246002.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac3523f-c114-4ebc-8c7a-13606bfdc047.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d80d846-d0a8-40a9-b933-fd099e40a2ce.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53b6131e-6b3d-4ac4-a945-ea8f55af167e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/329b16b6-649c-41c8-adf0-fde624d801b0.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/872a3264-eca2-46f4-bc47-7f22e52ce21f.jpg)
