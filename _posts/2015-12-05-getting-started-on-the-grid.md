@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-12T02:33:54.424Z'
+datePublished: '2017-03-12T02:37:00.969Z'
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-12T02:33:53.516Z'
+dateModified: '2017-03-12T02:36:59.672Z'
 title: ABOUT US
 publisher: {}
 description: >-
@@ -46,4 +46,6 @@ We are committed to helping you increase your profits that would open doors for 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac3523f-c114-4ebc-8c7a-13606bfdc047.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53b6131e-6b3d-4ac4-a945-ea8f55af167e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/329b16b6-649c-41c8-adf0-fde624d801b0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/835495fe-f414-4f84-9374-0eb005d7c77e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6340e20-e011-4013-b934-6a410200e839.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/872a3264-eca2-46f4-bc47-7f22e52ce21f.jpg)
