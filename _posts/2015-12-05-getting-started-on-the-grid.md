@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-12T02:37:00.969Z'
+datePublished: '2017-03-12T03:24:09.563Z'
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-12T02:36:59.672Z'
+dateModified: '2017-03-12T03:24:08.635Z'
 title: ABOUT US
 publisher: {}
 description: >-
@@ -40,12 +40,10 @@ Anotec Environmental is proud to have adopted the BATNEEC (Best Available Techno
 ANOTEC has been in the industry for 25 years and is one of the leading brands in Odour control systems in Australia and worldwide.
 
 Anotec Environmental is working towards continuous product development and persistent promotion of eco friendly products.
-
-We are committed to helping you increase your profits that would open doors for wider and bigger business opportunities.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04233b49-f195-47ed-85cf-1b244589d199.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac3523f-c114-4ebc-8c7a-13606bfdc047.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53b6131e-6b3d-4ac4-a945-ea8f55af167e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/329b16b6-649c-41c8-adf0-fde624d801b0.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/835495fe-f414-4f84-9374-0eb005d7c77e.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/835f58d2c4983021e7da5291e1ba10ba/croprotate.jpg?cropheight=120&cropwidth=104&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F835495fe-f414-4f84-9374-0eb005d7c77e.jpg&x=8&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6340e20-e011-4013-b934-6a410200e839.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/872a3264-eca2-46f4-bc47-7f22e52ce21f.jpg)
