@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-12T05:00:45.074Z'
-datePublished: '2017-03-12T05:00:46.015Z'
+dateModified: '2017-03-12T05:20:13.799Z'
+datePublished: '2017-03-12T05:20:14.666Z'
 title: Environmental Chemical Solutions
 author: []
 publisher: {}
@@ -10,7 +10,9 @@ via: {}
 sourcePath: _posts/2017-03-12-environmental-chemical-solutions.md
 starred: false
 datePublishedOriginal: '2017-03-12T04:39:48.127Z'
-_type: Blurb
+hasPage: true
+url: environmental-chemical-solutions/index.html
+_type: Article
 
 ---
 # Environmental Chemical Solutions
@@ -31,7 +33,6 @@ _type: Blurb
 * Chlorinated Bleach
 * Heavy Duty Cleaner
 * Anotec Fresh and Clean
-* (Multi-Purpose Cleaner)
 * Anotec Heavy Duty Degreaser
 * Anotec Laundry Detergent (Liquid)
 * Anotec General Disinfectant-Eucalyptus/ Lemon
@@ -46,4 +47,5 @@ _type: Blurb
 * Anotec Laundry Detergent (Powder)
 * Anotec Mould Cleaner
 * Anotec Adhesive Remover
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6483e944-af54-4b39-bb54-d779115915fe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d900bbfc-0b10-44a9-b361-370e10a96d84.jpg)
