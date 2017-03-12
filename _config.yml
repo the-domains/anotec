@@ -38,14 +38,14 @@ navigation:
   - name: R & D
     id: 1b23e760-0a23-4d5d-8c14-b5bc894ff967
     type: content
+  - name: 'Environmental Chemicals '
+    id: a8bfcb3f-bd3f-4ac9-a4ab-457f95411395
+    type: content
   - name: 'Products '
     id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
   - name: 'GECA Approval '
     id: 2d16c497-d235-45c1-83af-4b56e3f70a57
-    type: content
-  - name: 'Environmental Chemicals '
-    id: a8bfcb3f-bd3f-4ac9-a4ab-457f95411395
     type: content
   - name: 'Services '
     id: 10e6fe10-49ec-4a50-8792-e4b1251f5104
