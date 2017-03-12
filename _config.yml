@@ -52,7 +52,7 @@ navigation:
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
     type: content
-  - name: applications
+  - name: Applications
     id: 3d13138c-2f45-4ba1-9988-6ff8cbfc9c24
     type: content
 favicon: >-
