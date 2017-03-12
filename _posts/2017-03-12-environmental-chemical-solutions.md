@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Anotec Spray and Wipe (Peppermint)
-dateModified: '2017-03-12T04:40:04.355Z'
-datePublished: '2017-03-12T04:40:05.219Z'
+dateModified: '2017-03-12T04:47:58.352Z'
+datePublished: '2017-03-12T04:47:58.636Z'
 title: 'Environmental Chemical Solutions '
 author: []
 publisher: {}
@@ -73,3 +73,4 @@ Anotec Laundry Detergent (Powder)
 Anotec Mould Cleaner
 
 Anotec Adhesive Remover
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fea65a0-5328-45c0-b838-502ed5a64851.jpg)
