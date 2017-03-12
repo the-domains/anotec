@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Anotec Spray and Wipe (Peppermint)
-dateModified: '2017-03-12T04:48:11.384Z'
-datePublished: '2017-03-12T04:48:12.182Z'
+dateModified: '2017-03-12T04:49:13.245Z'
+datePublished: '2017-03-12T04:49:15.956Z'
 title: 'Environmental Chemical Solutions '
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-12-environmental-chemical-solutions.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-12T04:39:48.127Z'
-_type: Blurb
+url: environmental-chemical-solutions/index.html
+_type: Article
 
 ---
 # Environmental Chemical Solutions 
