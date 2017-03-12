@@ -53,6 +53,9 @@ navigation:
   - name: Sentinel System
     id: 9ce2765c-7969-4bb0-830a-ab15e7219fda
     type: content
+  - name: Applications
+    id: aee7b2ae-ed6b-46c7-9a7e-7616053428bd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
 collections:
