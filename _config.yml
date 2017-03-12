@@ -56,6 +56,9 @@ navigation:
   - name: Applications
     id: aee7b2ae-ed6b-46c7-9a7e-7616053428bd
     type: content
+  - name: 'Environmental Chemicals '
+    id: a8bfcb3f-bd3f-4ac9-a4ab-457f95411395
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
 collections:
