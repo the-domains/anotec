@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Want to distibute ?  '
-dateModified: '2017-03-12T05:04:48.047Z'
-datePublished: '2017-03-12T05:04:48.865Z'
+description: Want to distribute ?
+dateModified: '2017-03-12T05:18:43.865Z'
+datePublished: '2017-03-12T05:18:44.790Z'
 title: ''
 author: []
 publisher: {}
@@ -15,6 +15,7 @@ url: want-to-distibute/index.html
 _type: Article
 
 ---
-Want to distibute ? [click here][0]
+Want to distribute ?
+[click here][0]
 
 [0]: https://anotecenv.wufoo.com/forms/zxgf09v0d23peg
