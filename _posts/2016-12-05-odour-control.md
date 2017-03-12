@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-12T04:14:57.682Z'
+datePublished: '2017-03-12T04:16:15.057Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-12T04:14:56.797Z'
+dateModified: '2017-03-12T04:16:14.191Z'
 title: ''
 publisher: {}
 description: Applications
@@ -31,5 +31,3 @@ Applications
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9833d7e5-1540-4a54-9a83-0763ecbc49df.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/142487b1-e513-4739-8bb4-ae2feae61dcd.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/280db73c-a381-41e9-a500-fc6f3ecb76ec.jpg)
-
----
