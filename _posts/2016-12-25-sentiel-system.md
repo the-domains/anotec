@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Two Nozzle Fogger For Extreme Conditions
-dateModified: '2016-12-25T20:22:54.499Z'
-datePublished: '2016-12-25T20:22:55.288Z'
+dateModified: '2017-03-12T02:45:55.183Z'
+datePublished: '2017-03-12T02:45:56.422Z'
 title: Sentinel System
 author: []
 publisher: {}
@@ -15,6 +15,8 @@ url: sentiel-system/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec96f893-c9c6-4aae-a783-9bb3fb3321d6.jpg)
+
 # Sentinel System
 
 **Two Nozzle Fogger For Extreme Conditions**
