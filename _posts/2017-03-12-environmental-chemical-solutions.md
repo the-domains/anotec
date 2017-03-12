@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-12T04:53:16.361Z'
-datePublished: '2017-03-12T04:53:17.515Z'
+dateModified: '2017-03-12T05:00:45.074Z'
+datePublished: '2017-03-12T05:00:46.015Z'
 title: Environmental Chemical Solutions
 author: []
 publisher: {}
@@ -44,6 +44,6 @@ _type: Blurb
 * Anotec Toilet Bowl Cleaner
 * Anotec Grill Cleaner (Powder)
 * Anotec Laundry Detergent (Powder)
-* Anotec Mould Cleaner 
+* Anotec Mould Cleaner
 * Anotec Adhesive Remover
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d900bbfc-0b10-44a9-b361-370e10a96d84.jpg)
