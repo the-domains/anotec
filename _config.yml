@@ -50,9 +50,6 @@ navigation:
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
     type: content
-  - name: Applications
-    id: 3d13138c-2f45-4ba1-9988-6ff8cbfc9c24
-    type: content
   - name: Sentinel System
     id: 9ce2765c-7969-4bb0-830a-ab15e7219fda
     type: content
