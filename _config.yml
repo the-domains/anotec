@@ -46,7 +46,7 @@ navigation:
   - name: 'GECA Approval '
     id: 2d16c497-d235-45c1-83af-4b56e3f70a57
     type: content
-  - name: 'Environmental Chemicals '
+  - name: Chemicals
     id: a8bfcb3f-bd3f-4ac9-a4ab-457f95411395
     type: content
   - name: 'Services '
