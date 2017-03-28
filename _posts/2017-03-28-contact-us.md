@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: service@anotec.com.au
-dateModified: '2017-03-28T20:25:34.791Z'
-datePublished: '2017-03-28T20:25:35.563Z'
+description: 02 9700 1222
+dateModified: '2017-03-28T20:26:35.617Z'
+datePublished: '2017-03-28T20:26:36.374Z'
 title: Contact Us
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: MediaObject
 
 ## PHONE
 
-### 02 9700 1222
+02 9700 1222
 
 ## EMAIL
 
