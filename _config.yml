@@ -1,4 +1,3 @@
-layout_spectrum: 0.3468452341694127
 typography_spectrum: 0.3172186238658015
 color:
   saturation: 0.9596759023075683
@@ -11,13 +10,12 @@ color:
     - '#A7C520'
     - '#493F0B'
   rhythmicContrast: 0.33472299983992365
-coverPrefs:
-  filter: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3468452341694127
 analytics:
   twitter: null
   google: null
@@ -29,6 +27,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
 name: 'Anotec Environmental '
+url: 'https://thegrid.ai/anotec'
 cta:
   bucket: null
   version: null
@@ -42,6 +41,9 @@ navigation:
     type: content
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    type: content
+  - name: Contact Us
+    id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
@@ -136,6 +138,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: solutions for you
 purpose:
   - type: contact
@@ -144,4 +148,3 @@ purpose:
   - type: contact
     url: 'mailto:service@anotec.com.au'
     label: Contact us
-url: 'https://thegrid.ai/anotec'
