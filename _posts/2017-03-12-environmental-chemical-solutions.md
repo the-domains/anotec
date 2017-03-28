@@ -1,14 +1,14 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-03-12T08:38:12.988Z'
-datePublished: '2017-03-12T08:38:13.914Z'
-title: Environmental Chemical Solutions
-author: []
 publisher: {}
+datePublished: '2017-03-28T07:40:56.571Z'
+dateModified: '2017-03-28T07:40:50.941Z'
+description: ''
 via: {}
 sourcePath: _posts/2017-03-12-environmental-chemical-solutions.md
+title: Environmental Chemical Solutions
 hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-03-12T04:39:48.127Z'
 url: environmental-chemical-solutions/index.html
@@ -52,3 +52,8 @@ _type: Article
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6483e944-af54-4b39-bb54-d779115915fe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/303fe2f1-50aa-4ca3-b761-ac8fbe242fb7.jpg)
+
+Speak to Dennis MacIlwain 
+
+or Vince
