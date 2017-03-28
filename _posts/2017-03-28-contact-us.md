@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Contact Us
-dateModified: '2017-03-28T20:57:46.823Z'
-datePublished: '2017-03-28T20:57:47.544Z'
+dateModified: '2017-03-28T20:58:56.077Z'
+datePublished: '2017-03-28T20:58:56.808Z'
 title: ''
 author: []
 publisher: {}
@@ -17,21 +17,17 @@ _type: Article
 ---
 Contact Us
 
-PHONE
+PHONE 02 9700 1222
 
-02 9700 1222
+EMAIL service@anotec.com.au
 
-EMAIL
-
-service@anotec.com.au
-
-ADDRESS
-
-Anotec Environmental Pty Ltd
+ADDRESS Anotec Environmental Pty Ltd
 
 2/112 Dunheved St St Marys NSW 2760 Sydney Australia
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=-33.745523&amp;longitude=150.77213&amp;zoom=16&amp;address=112%20Dunheved%20Circuit%2C%20St%20Marys%2C%20New%20South%20Wales%202760%2C%20Australia" style=""></iframe>
+
+Contacts 
 
 John Zavras Chief Chemist and MD **mobile** 0419 636 877
 
