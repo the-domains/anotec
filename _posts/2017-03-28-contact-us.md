@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Contact Us
-dateModified: '2017-03-28T20:12:15.687Z'
-datePublished: '2017-03-28T20:12:16.595Z'
+dateModified: '2017-03-28T20:12:45.833Z'
+datePublished: '2017-03-28T20:12:46.636Z'
 title: ''
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ Anotec Environmental Pty Ltd
 
 John Zavras Chief Chemist and MD john@anotec.com.au
 
-    <a href="mailto:service@anotec.com.au">Jon Doe</a>
+    <a href="mailto:service@anotec.com.au">Dennis MacIlwain</a>
 
 Dennis MacIlwain
 
