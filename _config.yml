@@ -21,7 +21,9 @@ analytics:
   google: null
   facebook: null
 author:
-  name: '2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au '
+  name: >-
+    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
+    john zavras 
   email: john@anotec.com.au
   url: 'http://anotec.com.au'
 logo: >-
