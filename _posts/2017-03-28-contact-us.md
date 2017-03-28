@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: 02 9700 1222
-dateModified: '2017-03-28T20:30:51.467Z'
-datePublished: '2017-03-28T20:30:52.202Z'
+dateModified: '2017-03-28T20:31:00.701Z'
+datePublished: '2017-03-28T20:31:01.538Z'
 title: Contact Us
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-location/?latitude=-33.745523&longitude=150.77213&zoom=16&address=112%20Dunheved%20Circuit%2C%20St%20Marys%2C%20New%20South%20Wales%202760%2C%20Australia
 sourcePath: _posts/2017-03-28-contact-us.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-28T20:23:07.144Z'
-_type: MediaObject
+url: contact-us/index.html
+_type: Article
 
 ---
 # **Contact Us**
@@ -40,6 +40,8 @@ Dennis MacIlwain **mobile** 0429 622 528 Dennis@anotec.com.au
 ## Queensland
 
 Vince Foley **mobile** 0408 444 760 vfoley@waterfloc.com.au
+
+---
 
 ## (주)아노텍 코리아
 
