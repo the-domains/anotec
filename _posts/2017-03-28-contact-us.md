@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PHONE
-dateModified: '2017-03-28T20:43:59.493Z'
-datePublished: '2017-03-28T20:43:59.810Z'
+dateModified: '2017-03-28T20:50:50.201Z'
+datePublished: '2017-03-28T20:50:50.984Z'
 title: Contact Us
 author: []
 publisher: {}
@@ -37,11 +37,13 @@ John Zavras Chief Chemist and MD **mobile** 0419 636 877 john@anotec.com.au
 
 ---
 
-Dennis MacIlwain **mobile** 0429 622 528 Dennis@anotec.com.au
+Dennis MacIlwain **mobile** 0429 622 528
+
+    <a href="mailto:service@anotec.com.au">Dennis@anotec.com.au</a>
 
 ## Queensland
 
-Vince Foley **mobile** 0408 444 760 
+Vince Foley **mobile** 0408 444 760
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XKTczMKcm3Kk4tKstMTnVIzMsvSU3WS87P1UssVbIrS8vPSa10KE8sSS1Ky8mHSdjoJ9oBACi0GBU" height="244" style=""></iframe>
 
