@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Contact Us
-dateModified: '2017-03-28T20:56:25.877Z'
-datePublished: '2017-03-28T20:56:27.003Z'
+dateModified: '2017-03-28T20:57:46.823Z'
+datePublished: '2017-03-28T20:57:47.544Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: contact-us/index.html
 _type: Article
 
 ---
-**Contact Us**
+Contact Us
 
 PHONE
 
@@ -33,7 +33,7 @@ Anotec Environmental Pty Ltd
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=-33.745523&amp;longitude=150.77213&amp;zoom=16&amp;address=112%20Dunheved%20Circuit%2C%20St%20Marys%2C%20New%20South%20Wales%202760%2C%20Australia" style=""></iframe>
 
-John Zavras Chief Chemist and MD **mobile** 0419 636 877 
+John Zavras Chief Chemist and MD **mobile** 0419 636 877
 
 john@anotec.com.au
 
@@ -41,7 +41,7 @@ john@anotec.com.au
 
 Dennis MacIlwain **mobile** 0429 622 528
 
-dennis@anotec.com.au 
+dennis@anotec.com.au
 
 ## Queensland
 
