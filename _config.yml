@@ -55,9 +55,6 @@ navigation:
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
     type: content
-  - name: Sentinel
-    id: 9ce2765c-7969-4bb0-830a-ab15e7219fda
-    type: content
   - name: 'In situ '
     id: aee7b2ae-ed6b-46c7-9a7e-7616053428bd
     type: content
