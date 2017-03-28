@@ -40,9 +40,6 @@ navigation:
   - name: Odour Control
     id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
-  - name: 'Services '
-    id: 10e6fe10-49ec-4a50-8792-e4b1251f5104
-    type: content
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
     type: content
