@@ -90,7 +90,6 @@ content:
         - free
         - upload
       description: Uploaded by Jaybird Manufacturing on 2015-03-12.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
