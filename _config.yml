@@ -1,21 +1,23 @@
-typography_spectrum: 0.3172186238658015
+layout_spectrum: 0.5600658175345548
+typography_spectrum: 0.8323847749539752
 color:
-  saturation: 0.9596759023075683
-  brandStrength: 0.3913557648572075
-  lightness: 0.7216347406994514
+  saturation: 0.7762305005659156
+  brandStrength: 0.9383207732924067
+  lightness: 0.53831983436941
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-  rhythmicContrast: 0.33472299983992365
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  rhythmicContrast: 0.9950806602818135
+coverPrefs:
+  filter: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.3468452341694127
 analytics:
   twitter: null
   google: null
@@ -99,8 +101,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: solutions for you
 purpose:
   - type: contact
