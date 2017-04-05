@@ -1,8 +1,25 @@
-layout_spectrum: 0.5600658175345548
-typography_spectrum: 0.8323847749539752
+name: 'Anotec Environmental '
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:0297001222'
+    label: Call 02 9700 1222
+  - type: contact
+    url: 'mailto:service@anotec.com.au'
+    label: Contact us
+github: true
+description: 'solutions | simplified | economical '
+cta:
+  bucket: null
+  version: null
+  domain: null
+author:
+  name: >-
+    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
+    john zavras 
+  url: 'http://anotec.com.au'
+  email: john@anotec.com.au
 color:
-  saturation: 0.7762305005659156
-  brandStrength: 0.9383207732924067
   lightness: 0.53831983436941
   brandColors:
     - '#16193B'
@@ -10,60 +27,37 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+  saturation: 0.7762305005659156
+  brandStrength: 0.9383207732924067
   rhythmicContrast: 0.9950806602818135
-coverPrefs:
-  filter: false
-github: true
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  name: >-
-    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
-    john zavras 
-  email: john@anotec.com.au
-  url: 'http://anotec.com.au'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
-name: 'Anotec Environmental '
-url: 'https://thegrid.ai/anotec'
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.5600658175345548
 navigation:
-  - name: ABOUT US
-    id: 8e789427-bb1d-4784-b182-13e4246552e4
+  - id: 8e789427-bb1d-4784-b182-13e4246552e4
+    name: ABOUT US
     type: content
-  - name: Odour Control
-    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+  - id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+    name: Odour Control
     type: content
-  - name: 'Safety Data '
-    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+  - id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    name: 'Safety Data '
     type: content
-  - name: Contact Us
-    id: daabb6ca-b757-4121-a3e3-0ad913899025
+  - id: daabb6ca-b757-4121-a3e3-0ad913899025
+    name: Contact Us
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Anotec Environmental
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -78,12 +72,7 @@ content:
         - name: Andre Perneel
           url: 'https://www.youtube.com/channel/UC7UbqNSE-Jt09bUTFdkeI4w'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
       keywords:
         - sydney
         - australia
@@ -91,38 +80,45 @@ content:
         - 4k
         - uhd
         - bondi beach
-      description: 'Sydney, Australia, New South Wales, 4K, UHD, Bondi beach,'
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
+      title: 'Sydney, Australia in 4K (UHD)'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=na9eBzLMhTg'
+      publisher:
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        domain: www.youtube.com
+      description: 'Sydney, Australia, New South Wales, 4K, UHD, Bondi beach,'
+      related: []
       app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
+        - app_store_id: '544007664'
+          namespace: ai
+          app_name: YouTube
+          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
           type: ios
-          namespace: ai
-          app_store_id: '544007664'
+        - package: com.google.android.youtube
           app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
+          namespace: ai
+          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
           type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
         - url: 'https://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
           type: web
           namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
+        - id: '544007664'
           namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
           type: ipad
           name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
+        - id: '544007664'
           namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
           type: iphone
           name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=na9eBzLMhTg'
+        - id: com.google.android.youtube
           namespace: twitter
+          url: 'https://www.youtube.com/watch?v=na9eBzLMhTg'
           type: googleplay
           name: YouTube
-          id: com.google.android.youtube
         - path: http/www.youtube.com/watch?v=na9eBzLMhTg
           package: com.google.android.youtube
           namespace: google
@@ -132,17 +128,16 @@ content:
           namespace: google
           type: ios
       '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=na9eBzLMhTg'
-      title: 'Sydney, Australia in 4K (UHD)'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: solutions for you
-purpose:
-  - type: contact
-    url: 'tel:0297001222'
-    label: Call 02 9700 1222
-  - type: contact
-    url: 'mailto:service@anotec.com.au'
-    label: Contact us
+content_rating:
+  adult: false
+typography_spectrum: 0.8323847749539752
+coverPrefs:
+  filter: false
+title: Anotec Environmental
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
+url: 'https://thegrid.ai/anotec'
