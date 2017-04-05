@@ -35,17 +35,17 @@ author:
   url: 'http://anotec.com.au'
   email: john@anotec.com.au
 navigation:
-  - id: 8e789427-bb1d-4784-b182-13e4246552e4
-    name: ABOUT US
+  - name: ABOUT US
+    id: 8e789427-bb1d-4784-b182-13e4246552e4
     type: content
-  - id: 68da98c8-b660-4265-8a3d-0de96e44dd65
-    name: Odour Control
+  - name: Odour Control
+    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
-  - id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
-    name: 'Safety Data '
+  - name: 'Safety Data '
+    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
     type: content
-  - id: daabb6ca-b757-4121-a3e3-0ad913899025
-    name: Contact Us
+  - name: Contact Us
+    id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
 collections:
   - index:
@@ -136,7 +136,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 content_rating:
   adult: false
-title: Anotec Environmental
+title: Anotec Environmental Pty Ltd
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
