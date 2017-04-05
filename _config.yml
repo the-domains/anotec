@@ -1,3 +1,18 @@
+layout_spectrum: 0.5681675901022362
+typography_spectrum: 0.6268682536210791
+color:
+  lightness: 0.6062310085678012
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.7766816240599803
+  brandStrength: 0.22688391098393
+  rhythmicContrast: 0.5730471306169719
+coverPrefs:
+  filter: false
 name: 'Anotec Environmental '
 analytics: {}
 purpose:
@@ -19,18 +34,6 @@ author:
     john zavras 
   url: 'http://anotec.com.au'
   email: john@anotec.com.au
-color:
-  lightness: 0.53831983436941
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  saturation: 0.7762305005659156
-  brandStrength: 0.9383207732924067
-  rhythmicContrast: 0.9950806602818135
-layout_spectrum: 0.5600658175345548
 navigation:
   - id: 8e789427-bb1d-4784-b182-13e4246552e4
     name: ABOUT US
@@ -133,9 +136,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 content_rating:
   adult: false
-typography_spectrum: 0.8323847749539752
-coverPrefs:
-  filter: false
 title: Anotec Environmental
 opengraph: {}
 logo: >-
