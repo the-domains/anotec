@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-28T22:55:08.878Z'
+datePublished: '2017-04-06T05:21:14.234Z'
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-28T22:55:07.554Z'
+dateModified: '2017-04-06T05:21:12.034Z'
 title: ABOUT US
 publisher: {}
 description: >-
@@ -26,6 +26,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1VMFu2zAMvecrGB8aZ3XkDkUvTdqhXXPoYVmxFrsEwaDJtK3UkQyJTmas_fdRjtMWLZZDSFqP5OMT7dlwMoF7ko7A5nDlW6Pgxumc4KvNECaTy8HMK6druhwM88Yo0tbEY_g7ANhKBzRlR-cQE1zATpvM7kQW8t_HH46fnmC5SmBIQhtNY3BIjTMQwq19xAy-wNbqDOI-TVnjbYVwdAS9K9A56z48iKP9AN7oukYCbVTVZFyQdlqhiMZjOGe-L30uYHiSAI9BYoNU2szzoyVEOkNDOm-jBCJukOsieOSkegyOQ48UnAx_N92RL-0u2FqbLq5lgcGWXClYm-edMRGs-oa5VGRdyw1ftMW9uHAQ5J3o4ReEN9M-6GGGa1w5J1tRO0uW2hqFr8LASlZVLF3RbHgeP07AiMb4kiXiXgmTqBtfxia4-5rPwTwnr3qI3Lq5VGX8kSQtccWdXybhky67K1xZmb0djQ5ZYQBkIgnYBPS-KzLyFM84ZuebpFIo1FVscAc3kpDHT4HbfgqJliGZVd1EQjnk83mFIYqj_bZG405hACuCFIyPCP9QupZb2SO4jJDdwu83wHIl6711utBBzUgaa9qNbXwH9S4Ao5Ko9udpuvb9IvNibtJ-x9IIjpn_MUSdR8ET65DfcTFvaRdIPWd_3T7IYiE3-Mp-ebIKF1VLx4AFv4q8rh4dXSPfBcYsm-mFng6eY_7ryIj7xe3d3fzh18_5j_vb7wvuNzoRp-Lz6AAIVxKPtD_LdwXl-LhVI06epYd3fBa-B3OT_e9r8A8yekuT" height="244" style=""></iframe>
+
 [Place your order now ][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f8dded5-e674-41e9-8e1e-0fb1f47bb2d7.jpg)
 
