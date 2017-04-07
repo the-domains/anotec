@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-06T05:21:14.234Z'
+datePublished: '2017-04-07T04:34:04.058Z'
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-04-06T05:21:12.034Z'
+dateModified: '2017-04-07T04:34:00.174Z'
 title: ABOUT US
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ description: >-
   improving the standards of excellence that we have achieved over the past
   twenty years. Standards that have brought us distinction as a specialty range
   chemical formulator and manufacturer of effective odour control, sanitation
-  and cleaning products.
+  and cleaning solutions. 
 inLanguage: null
 starred: true
 datePublishedOriginal: '2017-03-12T02:01:31.064Z'
@@ -35,7 +35,7 @@ _type: Article
 
 ## Your Odours Our Business
 
-Anotec Environmental Pty Ltd creates premium quality formulations that been available for Industrial, Commercial and Domestic Applications since 1990\. At Anotec Environmental Pty Ltd we are committed to maintaining and constantly improving the standards of excellence that we have achieved over the past twenty years. Standards that have brought us distinction as a specialty range chemical formulator and manufacturer of effective odour control, sanitation and cleaning products.
+Anotec Environmental Pty Ltd creates premium quality formulations that been available for Industrial, Commercial and Domestic Applications since 1990\. At Anotec Environmental Pty Ltd we are committed to maintaining and constantly improving the standards of excellence that we have achieved over the past twenty years. Standards that have brought us distinction as a specialty range chemical formulator and manufacturer of effective odour control, sanitation and cleaning solutions. 
 
 Anotec Environmental is proud to have adopted the BATNEEC (Best Available Technology Not Entailing Excessive Costs) Policy which is applicable for all industry types including the commercial and domestic sector.
 
