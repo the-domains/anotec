@@ -8,7 +8,7 @@ purpose:
     url: 'mailto:service@anotec.com.au'
     label: Contact us
 github: true
-description: '//sustainable solutions at '
+description: //sustainable solutions
 cta:
   bucket: null
   version: null
