@@ -1,5 +1,24 @@
-layout_spectrum: 0.5681675901022362
-typography_spectrum: 0.6268682536210791
+name: 'Anotec Environmental '
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:0297001222'
+    label: Call 02 9700 1222
+  - type: contact
+    url: 'mailto:service@anotec.com.au'
+    label: Contact us
+github: true
+description: '//sustainable solutions at '
+cta:
+  bucket: null
+  version: null
+  domain: null
+author:
+  name: >-
+    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
+    john zavras 
+  url: 'http://anotec.com.au'
+  email: john@anotec.com.au
 color:
   lightness: 0.6062310085678012
   brandColors:
@@ -11,56 +30,6 @@ color:
   saturation: 0.7766816240599803
   brandStrength: 0.22688391098393
   rhythmicContrast: 0.5730471306169719
-coverPrefs:
-  filter: false
-name: 'Anotec Environmental '
-analytics: {}
-purpose:
-  - type: contact
-    url: 'tel:0297001222'
-    label: Call 02 9700 1222
-  - type: contact
-    url: 'mailto:service@anotec.com.au'
-    label: Contact us
-github: true
-description: 'solutions | simple | saving '
-cta:
-  bucket: null
-  version: null
-  domain: null
-author:
-  name: >-
-    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
-    john zavras 
-  url: 'http://anotec.com.au'
-  email: john@anotec.com.au
-navigation:
-  - name: ABOUT US
-    id: 8e789427-bb1d-4784-b182-13e4246552e4
-    type: content
-  - name: Odour Control
-    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
-    type: content
-  - name: 'Safety Data '
-    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
-    type: content
-  - name: Contact Us
-    id: daabb6ca-b757-4121-a3e3-0ad913899025
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -75,7 +44,7 @@ content:
         - name: Andre Perneel
           url: 'https://www.youtube.com/channel/UC7UbqNSE-Jt09bUTFdkeI4w'
           avatar: {}
-      datePublished: null
+      '@context': 'http://schema.org'
       keywords:
         - sydney
         - australia
@@ -130,12 +99,43 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: 8e789427-bb1d-4784-b182-13e4246552e4
+    name: ABOUT US
+    type: content
+  - id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+    name: Odour Control
+    type: content
+  - id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    name: 'Safety Data '
+    type: content
+  - id: daabb6ca-b757-4121-a3e3-0ad913899025
+    name: Contact Us
+    type: content
+layout_spectrum: 0.5681675901022362
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
 content_rating:
   adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6268682536210791
+coverPrefs:
+  filter: false
 title: Anotec Environmental Pty Ltd
 opengraph: {}
 logo: >-
