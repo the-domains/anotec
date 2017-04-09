@@ -118,8 +118,7 @@ navigation:
     id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
 layout_spectrum: 0.5681675901022362
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dfb51ad-b63c-4d48-baef-f416cf30ccb9.png
+favicon: null
 content_rating:
   adult: false
 collections:
@@ -141,4 +140,4 @@ title: Anotec Environmental Pty Ltd
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
-url: 'https://thegrid.ai/anotec'
+url: 'http://anotec.com.au'
