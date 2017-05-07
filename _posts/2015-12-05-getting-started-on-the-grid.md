@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T04:22:01.472Z'
+datePublished: '2017-05-07T22:57:10.709Z'
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-05-04T04:21:58.839Z'
+dateModified: '2017-05-07T22:57:09.979Z'
 title: ABOUT US
 publisher: {}
 description: 'Order Line : 02 8579 0088'
@@ -30,7 +30,7 @@ Order Line : 02 8579 0088
 
 ## Your Odours Our Business
 
-Anotec Environmental Pty Ltd creates premium quality formulations that been available for Industrial, Commercial and Domestic Applications since 1990\. At Anotec Environmental Pty Ltd we are committed to maintaining and constantly improving the standards of excellence that we have achieved over the past twenty years. Standards that have brought us distinction as a specialty range chemical formulator and manufacturer of effective odour control, sanitation and cleaning solutions.
+Anotec Environmental Pty Ltd creates premium quality formulations that been available for Industrial, Commercial and Domestic Applications since 1990, through various solution providers. At Anotec Environmental Pty Ltd we are committed to maintaining and constantly improving the standards of excellence that we have achieved. Standards that have brought us distinction as a specialty range chemical formulator and manufacturer of effective odour control, sanitation and cleaning solutions.
 
 Anotec Environmental is proud to have adopted the BATNEEC (Best Available Technology Not Entailing Excessive Costs) Policy which is applicable for all industry types including the commercial and domestic sector.
 
