@@ -1,3 +1,18 @@
+layout_spectrum: 0.6790474465488466
+typography_spectrum: 0.7518243679988871
+color:
+  lightness: 0.07187174894496579
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  saturation: 0.43360413486977095
+  brandStrength: 0.23445747541005513
+  rhythmicContrast: 0.27744282678783977
+coverPrefs:
+  filter: false
 name: 'Anotec Environmental '
 analytics:
   google: UA-97060531-1
@@ -20,90 +35,7 @@ author:
     John Zavras 
   url: 'http://anotec.com.au'
   email: john@anotec.com.au
-color:
-  lightness: 0.6062310085678012
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  saturation: 0.7766816240599803
-  brandStrength: 0.22688391098393
-  rhythmicContrast: 0.5730471306169719
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fna9eBzLMhTg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dna9eBzLMhTg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fna9eBzLMhTg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: Andre Perneel
-          url: 'https://www.youtube.com/channel/UC7UbqNSE-Jt09bUTFdkeI4w'
-          avatar: {}
-      datePublished: null
-      keywords:
-        - sydney
-        - australia
-        - new south wales
-        - 4k
-        - uhd
-        - bondi beach
-      '@type': VideoObject
-      title: 'Sydney, Australia in 4K (UHD)'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=na9eBzLMhTg'
-      publisher:
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        domain: www.youtube.com
-      description: 'Sydney, Australia, New South Wales, 4K, UHD, Bondi beach,'
-      related: []
-      app_links:
-        - app_store_id: '544007664'
-          namespace: ai
-          app_name: YouTube
-          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
-          type: ios
-        - package: com.google.android.youtube
-          app_name: YouTube
-          namespace: ai
-          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
-          type: android
-        - url: 'https://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
-          type: web
-          namespace: ai
-        - id: '544007664'
-          namespace: twitter
-          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
-          type: ipad
-          name: YouTube
-        - id: '544007664'
-          namespace: twitter
-          url: 'vnd.youtube://www.youtube.com/watch?v=na9eBzLMhTg&feature=applinks'
-          type: iphone
-          name: YouTube
-        - id: com.google.android.youtube
-          namespace: twitter
-          url: 'https://www.youtube.com/watch?v=na9eBzLMhTg'
-          type: googleplay
-          name: YouTube
-        - path: http/www.youtube.com/watch?v=na9eBzLMhTg
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=na9eBzLMhTg
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
   - name: ABOUT US
     id: 8e789427-bb1d-4784-b182-13e4246552e4
@@ -117,7 +49,6 @@ navigation:
   - name: Contact Us
     id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
-layout_spectrum: 0.5681675901022362
 collections:
   - index:
       path: /
@@ -132,9 +63,6 @@ collections:
       number: 10
 content_rating:
   adult: false
-typography_spectrum: 0.6268682536210791
-coverPrefs:
-  filter: false
 title: Anotec Environmental Pty Ltd
 opengraph: {}
 logo: >-
