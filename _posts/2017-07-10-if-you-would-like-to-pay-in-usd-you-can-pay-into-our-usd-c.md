@@ -1,16 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: 'If you would like to pay in USD , you can pay into our USD clearing account.'
-dateModified: '2017-07-10T12:27:37.501Z'
-datePublished: '2017-07-10T12:27:38.441Z'
+dateModified: '2017-07-10T13:37:54.002Z'
+datePublished: '2017-07-10T13:37:55.548Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-07-10T12:27:38.441Z'
 sourcePath: >-
   _posts/2017-07-10-if-you-would-like-to-pay-in-usd-you-can-pay-into-our-usd-c.md
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-07-10T12:27:38.441Z'
+url: if-you-would-like-to-pay-in-usd-you-can-pay-into-our-usd-c/index.html
 _type: Blurb
 
 ---
