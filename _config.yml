@@ -74,7 +74,6 @@ content:
         of the best things to do in Syndey, Australia. Established in 1788 as a
         penal colony, Sydney was once a little rough around the edges, but it
         has since transformed into a must-visit coastal destination.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=OrIDTJH2ZZM&feature=applinks'
@@ -124,14 +123,14 @@ navigation:
   - name: ABOUT US
     id: 8e789427-bb1d-4784-b182-13e4246552e4
     type: content
+  - name: Contact Us
+    id: daabb6ca-b757-4121-a3e3-0ad913899025
+    type: content
   - name: Odour Control
     id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
-    type: content
-  - name: Contact Us
-    id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
 collections:
   - index:
