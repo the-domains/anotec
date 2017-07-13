@@ -126,11 +126,11 @@ navigation:
   - name: Contact Us
     id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
-  - name: Odour Control
-    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
-    type: content
   - name: 'Safety Data '
     id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    type: content
+  - name: Odour Control
+    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
 collections:
   - index:
