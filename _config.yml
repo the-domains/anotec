@@ -1,5 +1,6 @@
-layout_spectrum: 0.6790474465488466
 typography_spectrum: 0.7518243679988871
+content_rating:
+  adult: false
 color:
   lightness: 0.07187174894496579
   brandColors:
@@ -11,30 +12,56 @@ color:
   saturation: 0.43360413486977095
   brandStrength: 0.23445747541005513
   rhythmicContrast: 0.27744282678783977
-coverPrefs:
-  filter: false
-name: 'Anotec Environmental '
+github: true
+opengraph: {}
+layout_spectrum: 0.6790474465488466
 analytics:
   google: UA-97060531-1
-purpose:
-  - type: contact
-    url: 'tel:0297001222'
-    label: Call 02 9700 1222
-  - type: contact
-    url: 'mailto:service@anotec.com.au'
-    label: Contact us
-github: true
-description: sustainable solutions
-cta:
-  bucket: null
-  version: null
-  domain: null
 author:
   name: >-
     2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
     John Zavras 
   url: 'http://anotec.com.au'
   email: john@anotec.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
+name: 'Anotec Environmental '
+url: 'https://thegrid.ai/anotec'
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: ABOUT US
+    id: 8e789427-bb1d-4784-b182-13e4246552e4
+    type: content
+  - name: Contact Us
+    id: daabb6ca-b757-4121-a3e3-0ad913899025
+    type: content
+  - name: 'Safety Data '
+    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    type: content
+  - name: Odour Control
+    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+    type: content
+  - name: 'Order NOW '
+    id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Anotec Environmental Pty Ltd
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -45,16 +72,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Expedia
-          url: 'https://www.youtube.com/user/Expedia'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=OrIDTJH2ZZM'
       keywords:
         - 'yt:cc=off'
         - bondi beach
@@ -68,12 +87,13 @@ content:
         - sydney tower
         - beach
         - manl...
-      description: >-
-        http://www.expedia.com/Sydney.d178312.Destination-Travel-Guides Ready
-        for an adventure? Click play on our travel guide video to uncover some
-        of the best things to do in Syndey, Australia. Established in 1788 as a
-        penal colony, Sydney was once a little rough around the edges, but it
-        has since transformed into a must-visit coastal destination.
+      related: []
+      author:
+        - name: Expedia
+          url: 'https://www.youtube.com/user/Expedia'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Sydney Vacation Travel Guide | Expedia
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=OrIDTJH2ZZM&feature=applinks'
@@ -112,44 +132,27 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=OrIDTJH2ZZM'
-      title: Sydney Vacation Travel Guide | Expedia
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        http://www.expedia.com/Sydney.d178312.Destination-Travel-Guides Ready
+        for an adventure? Click play on our travel guide video to uncover some
+        of the best things to do in Syndey, Australia. Established in 1788 as a
+        penal colony, Sydney was once a little rough around the edges, but it
+        has since transformed into a must-visit coastal destination.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: ABOUT US
-    id: 8e789427-bb1d-4784-b182-13e4246552e4
-    type: content
-  - name: Contact Us
-    id: daabb6ca-b757-4121-a3e3-0ad913899025
-    type: content
-  - name: 'Safety Data '
-    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
-    type: content
-  - name: Odour Control
-    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-content_rating:
-  adult: false
-title: Anotec Environmental Pty Ltd
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
-url: 'https://thegrid.ai/anotec'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
+coverPrefs:
+  filter: false
+description: sustainable solutions
+purpose:
+  - type: contact
+    url: 'tel:0297001222'
+    label: Call 02 9700 1222
+  - type: contact
+    url: 'mailto:service@anotec.com.au'
+    label: Contact us
