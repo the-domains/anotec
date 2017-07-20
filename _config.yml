@@ -44,6 +44,9 @@ navigation:
   - name: Odour Control
     id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
+  - name: Order Now
+    id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
 collections:
