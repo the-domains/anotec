@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-06T13:37:21.684Z'
-dateModified: '2017-08-06T13:37:20.328Z'
+datePublished: '2017-08-06T13:37:33.580Z'
+dateModified: '2017-08-06T13:37:32.205Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-12-environmental-chemical-solutions.md
