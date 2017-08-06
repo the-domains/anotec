@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-07T22:54:49.629Z'
-dateModified: '2017-05-07T22:54:48.497Z'
+datePublished: '2017-08-06T13:31:45.330Z'
+dateModified: '2017-08-06T13:31:43.901Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-12-environmental-chemical-solutions.md
@@ -20,7 +20,6 @@ _type: Article
 # Environmental Chemical Solutions
 
 ## Other products
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38c7644d-42b9-4bb9-867f-230dbedad8c8.jpg)
 
 * Anotec Spray and Wipe (Peppermint)
 * Anotec New Fresh Spray and Wipe
@@ -49,12 +48,14 @@ _type: Article
 * Anotec Laundry Detergent (Powder)
 * Anotec Mould Cleaner
 * Anotec Adhesive Remover
-* Road sealing Technology RST ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d900bbfc-0b10-44a9-b361-370e10a96d84.jpg)
+* Road sealing Technology RST
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d900bbfc-0b10-44a9-b361-370e10a96d84.jpg)
 
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6483e944-af54-4b39-bb54-d779115915fe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/303fe2f1-50aa-4ca3-b761-ac8fbe242fb7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c4e082b-df4b-4006-a989-7191a44d6020.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6ebac70-1c1e-411f-aca1-266690329fa8.png)
 
 Speak to Dennis MacIlwain
 
