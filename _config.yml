@@ -47,6 +47,9 @@ navigation:
   - name: Order Now
     id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
     type: content
+  - name: Raw Materials
+    id: 657107fc-abe7-4fb7-99a9-0fcb8c6a675e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
 collections:
@@ -154,19 +157,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d623cdaf-b91c-4f99-9d5e-9c2fbbecf4e3.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -178,20 +181,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d5201ec-7c25-444a-9391-8fc80f7afa42.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
