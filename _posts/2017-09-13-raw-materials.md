@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Raw materials
-dateModified: '2017-09-13T06:20:15.490Z'
-datePublished: '2017-09-13T06:20:17.071Z'
+dateModified: '2017-09-13T06:20:37.205Z'
+datePublished: '2017-09-13T06:20:38.689Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2017-09-13-raw-materials.md
 starred: false
 datePublishedOriginal: '2017-09-13T06:09:50.194Z'
 url: raw-materials/index.html
-_type: Article
+_type: Blurb
 
 ---
 Raw materials
@@ -29,7 +29,8 @@ Anotec have a range of raw material additives that can be used in formulating yo
 7. RM 7477 airtrace additive
 8. Complex Phyll a chlorphyll extract
 9. tt7 A water soluble teatree additive.
-10. DustX dust suppressant additive ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/980fd310-7b4a-467e-840d-79800844e417.png)
+10. DustX dust suppressant additive
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/980fd310-7b4a-467e-840d-79800844e417.png)
 
 let us know if it is not on the list we can build it for you .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24a4bfd6-366b-44c7-ae3b-f0a1bc7c2794.jpg)
