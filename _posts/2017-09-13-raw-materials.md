@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Raw materials
-dateModified: '2017-09-13T06:21:16.438Z'
-datePublished: '2017-09-13T06:21:17.295Z'
+dateModified: '2018-04-02T01:22:32.153Z'
+datePublished: '2018-04-02T01:22:33.123Z'
 title: ''
 author: []
 publisher: {}
@@ -24,12 +24,13 @@ Anotec have a range of raw material additives that can be used in formulating yo
 2. Maskit a high odour masking agent
 3. Milal 3 a biodegradable oil
 4. OD 112 an odour destroyer (odorless)
-5. Q50 a Quaternary based surfactant
-6. TNX a thickening agent
-7. RM 7477 airtrace additive
-8. Complex Phyll a chlorphyll extract
-9. tt7 A water soluble teatree additive.
-10. DustX dust suppressant additive
+5. formol (tm) formaldehyde and voc control
+6. Q50 a Quaternary based surfactant
+7. TNX a thickening agent
+8. RM 7477 airtrace additive
+9. Complex Phyll a chlorphyll extract
+10. tt7 A water soluble teatree additive.
+11. DustX dust suppressant additive
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/980fd310-7b4a-467e-840d-79800844e417.png)
 
 let us know if it is not on the list we can build it for you .
