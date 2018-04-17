@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: "1.\tINTERPRETATION"
-dateModified: '2018-04-17T06:36:32.488Z'
-datePublished: '2018-04-17T06:36:34.546Z'
+dateModified: '2018-04-17T06:37:22.471Z'
+datePublished: '2018-04-17T06:37:23.538Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-17-standard-terms-and-conditions-of-trade.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-17T06:36:34.546Z'
-sourcePath: _posts/2018-04-17-standard-terms-and-conditions-of-trade.md
-_type: Blurb
+url: standard-terms-and-conditions-of-trade/index.html
+_type: Article
 
 ---
 # **STANDARD TERMS AND CONDITIONS OF TRADE**
