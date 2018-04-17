@@ -50,6 +50,9 @@ navigation:
   - name: Raw Materials
     id: 657107fc-abe7-4fb7-99a9-0fcb8c6a675e
     type: content
+  - name: Terms
+    id: b82bbc2a-4a68-46dd-afca-196e4ba55053
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
 collections:
@@ -75,17 +78,15 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - avatar: {}
-      related: []
-      publisher:
-        url: 'http://youtube.com'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/daovv-wEcrU'
       keywords:
         - ''
-      description: Uploaded by None on 2018-01-22.
+      related: []
+      author:
+        - avatar: {}
+      '@context': 'http://schema.org'
+      title: Chemical Laboratory
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=daovv-wEcrU&feature=applinks'
@@ -124,10 +125,12 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/daovv-wEcrU'
-      title: Chemical Laboratory
-      datePublished: null
+      publisher:
+        url: 'http://youtube.com'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: Uploaded by None on 2018-01-22.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -140,18 +143,15 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - avatar: {}
-      related: []
-      publisher:
-        url: 'http://youtube.com'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/daovv-wEcrU'
       keywords:
         - ''
-      description: Uploaded by None on 2018-01-22.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
+      author:
+        - avatar: {}
+      '@context': 'http://schema.org'
+      title: Chemical Laboratory
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=daovv-wEcrU&feature=applinks'
@@ -190,10 +190,12 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/daovv-wEcrU'
-      title: Chemical Laboratory
-      datePublished: null
+      publisher:
+        url: 'http://youtube.com'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: Uploaded by None on 2018-01-22.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
