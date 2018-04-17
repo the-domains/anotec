@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-17T07:01:45.273Z'
-datePublished: '2018-04-17T07:01:46.978Z'
+dateModified: '2018-04-17T22:49:44.866Z'
+datePublished: '2018-04-17T22:49:46.888Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -67,7 +67,7 @@ e) No variation or abrogation of these terms and conditions shall be effective u
 
 3\. PAYMENT
 
-a) Unless otherwise agreed by the parties in writing payment shall be made within 30 days from the end of the month in which the invoice is dated.
+a) Unless otherwise agreed by the parties in writing payment shall be made immediately 
 
 b) Time for payment of the price of the goods shall be of the essence of the Contract and if the Purchaser fails to pay the price when due Anotec Environmental may treat the Contract as repudiated by the Purchaser or may, unless payment in full is made, suspend delivery of the goods the subject of the Contract and any goods the subject of any other Contract with the Purchaser without incurring any liability whatsoever to the Purchaser in respect thereof. In addition, without prejudice to such rights of Anotec Environmental, the Purchaser shall (if so required by Anotec Environmental) pay interest to Anotec Environmental on the outstanding amount of the price at the rate of 18% per annum until the price is paid in full.
 
