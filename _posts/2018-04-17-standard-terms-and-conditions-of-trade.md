@@ -1,25 +1,23 @@
 ---
 inFeed: true
-description: "1.\tINTERPRETATION"
-dateModified: '2018-04-17T06:37:22.471Z'
-datePublished: '2018-04-17T06:37:23.538Z'
+description: Effective as at 1 July 2014
+dateModified: '2018-04-17T06:40:17.133Z'
+datePublished: '2018-04-17T06:40:19.541Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-04-17-standard-terms-and-conditions-of-trade.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-17T06:36:34.546Z'
-url: standard-terms-and-conditions-of-trade/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **STANDARD TERMS AND CONDITIONS OF TRADE**
 
-1\. INTERPRETATION
-
 Effective as at 1 July 2014
+
+1\. INTERPRETATION
 
 In these terms and conditions and in any contract to which these conditions apply, unless inconsistent with the context:
 
