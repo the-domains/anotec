@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-18T01:28:02.321Z'
-datePublished: '2018-04-18T01:28:03.335Z'
+dateModified: '2018-04-18T01:30:12.157Z'
+datePublished: '2018-04-18T01:30:13.451Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -169,9 +169,7 @@ ii) if the liability is due to a failure to comply with any condition, warranty 
 
 ii) in respect of all other liability (if any), Anotec Environmental's liability is limited in the aggregate to the amount of $10,000\.
 
-dii) To the extent permitted by law, Anotec Environmental will have no liability to the Purchaser, however arising and under any cause of action or theory of liability, in respect of special, indirect or consequential damages, loss of profit
-
-(whether direct or indirect) or loss of business opportunity arising out of or in connection with the Contract or its performance.
+F) To the extent permitted by law, Anotec Environmental will have no liability to the Purchaser, however arising and under any cause of action or theory of liability, in respect of special, indirect or consequential damages, loss of profit (whether direct or indirect) or loss of business opportunity arising out of or in connection with the Contract or its performance.
 
 8\. RETURN OF GOODS
 
