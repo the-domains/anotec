@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-18T01:24:50.583Z'
-datePublished: '2018-04-18T01:24:52.022Z'
+dateModified: '2018-04-18T01:27:44.711Z'
+datePublished: '2018-04-18T01:27:45.999Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -157,7 +157,7 @@ i) all conditions, warranties, guarantees, terms and obligations expressed or im
 
 ii) without limiting the generality of the foregoing, Anotec Environmental gives no condition, warranty or guarantee whatsoever as to the suitability, performance or fitness of the goods for their ordinary or any special use or purpose, and the description of the goods in any Contract or any other document shall not import any such condition, warranty or guarantee on the part of Anotec Environmental.
 
-di) Notwithstanding anything to the contrary herein contained but subject to the provisions of any Prescribed Terms, Anotec Environmental's liability in respect of any Claim arising in any way out of the Contract or its performance or from any failure to perform the Contract including (without limiting the generality of the foregoing) for breach of any condition, warranty or guarantee contained in the Contract or in any Prescribed Term implied into or applying to the Contract and whether that liability arises under contract, tort (including negligence), breach of statutory duty or otherwise, is limited as follows:
+E) Notwithstanding anything to the contrary herein contained but subject to the provisions of any Prescribed Terms, Anotec Environmental's liability in respect of any Claim arising in any way out of the Contract or its performance or from any failure to perform the Contract including (without limiting the generality of the foregoing) for breach of any condition, warranty or guarantee contained in the Contract or in any Prescribed Term implied into or applying to the Contract and whether that liability arises under contract, tort (including negligence), breach of statutory duty or otherwise, is limited as follows:
 
 i) if any guarantee under the Act is applicable to any good or service supplied by Anotec Environmental and Anotec Environmental's liability is due to a failure to comply with the guarantee and such failure cannot be remedied or is a major failure as defined in the Act (each such failure hereafter referred to as a Relevant Failure), Anotec Environmental's liability is as stated in the Act in respect of that Relevant Failure;
 
