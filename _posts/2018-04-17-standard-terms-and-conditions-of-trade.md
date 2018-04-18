@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-18T01:39:38.479Z'
-datePublished: '2018-04-18T01:39:40.241Z'
+dateModified: '2018-04-18T01:39:54.439Z'
+datePublished: '2018-04-18T01:39:55.553Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -227,7 +227,7 @@ Any expenses, costs or disbursements incurred by Anotec Environmental in recover
 
 ## Checking your credit 
 
-Application is subject to a credit check and verification of personal details (including but not limited to employment details and immigration status). A credit check involves Anotec Environmental disclosing personal information about you to a credit reporting agency or third party information providers in order to obtain and use credit and other reports and information about you to assess your application. The reports and information that will be provided to Anotec Environmental include personal information about you. Anotec Environmental' s request for a credit check may be recorded by the credit reporting agency to create or maintain a credit information file about you.
+Application and Business relationship is subject to a credit check and verification of personal details (including but not limited to employment details and immigration status). A credit check involves Anotec Environmental disclosing personal information about you to a credit reporting agency or third party information providers in order to obtain and use credit and other reports and information about you to assess your application. The reports and information that will be provided to Anotec Environmental include personal information about you. Anotec Environmental' s request for a credit check may be recorded by the credit reporting agency to create or maintain a credit information file about you.
 
 Anotec Environmental may also:
 
