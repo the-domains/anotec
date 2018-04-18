@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-18T01:30:12.157Z'
-datePublished: '2018-04-18T01:30:13.451Z'
+dateModified: '2018-04-18T01:39:38.479Z'
+datePublished: '2018-04-18T01:39:40.241Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -224,3 +224,49 @@ All Contracts made between Anotec Environmental and the Purchaser shall be gover
 19\. COST RECOVERY
 
 Any expenses, costs or disbursements incurred by Anotec Environmental in recovering any outstanding monies owing by the Purchaser including debt collection fees and solicitors cots shall be paid by the Purchaser, providing that those fees do not exceed the scale charges as charged by that debt collection agency or solicitor plus any out of pocket expenses.
+
+## Checking your credit 
+
+Application is subject to a credit check and verification of personal details (including but not limited to employment details and immigration status). A credit check involves Anotec Environmental disclosing personal information about you to a credit reporting agency or third party information providers in order to obtain and use credit and other reports and information about you to assess your application. The reports and information that will be provided to Anotec Environmental include personal information about you. Anotec Environmental' s request for a credit check may be recorded by the credit reporting agency to create or maintain a credit information file about you.
+
+Anotec Environmental may also:
+
+• request a credit report from a credit reporting agency to assist in the collection of any overdue payments;
+
+• and disclose information to a credit reporting agency to list default payments.
+
+The credit reporting agencies to which Anotec Environmental is likely to disclose information are:
+
+• Illion, formerly known as Dun & Bradstreet, can be contacted via email at clientservices@dnb.com.au or by calling Client Services on 13 23 33 during business hours Monday to Friday. That information is available to you without charge for 90 days following the date of this notice.
+
+• Equifax can be contacted by calling 1300 921 621 during business hours Monday to Friday. That information is available to you without charge for 90 days following the date of this notice.
+
+The following is the information that Anotec Environmental may disclose to a credit reporting agency before, during and after you become a Anotec Environmental customer:
+
+• information in your application form and particulars of your account;
+
+• that you have applied for credit with Anotec Environmental;
+
+• that Anotec Environmental is a current credit provider to you;
+
+• payments that are more than 60 days overdue and are in collections;
+
+• any cheque of yours for $100 or more which has been dishonoured more than once;
+
+• any serious credit infringement committed by you;
+
+• advice that payments are no longer overdue
+
+Anotec Environmental may also disclose certain information about you and any debt you have with Anotec Environmental to a debt collection agency or any potential assignee.
+
+When Anotec Environmental conducts any credit check or discloses your personal information for credit purposes, it is bound by the Privacy and Telecommunications Acts.
+
+Anotec Environmental is also required by law to seek your specific agreement to the following.
+
+\[If an individual\]
+
+By continuing with your application, you agree that Anotec Environmental can conduct a credit check and verify your personal details.
+
+\[If self-employed/sole trader\]
+
+By continuing with your application, you agree that Anotec Environmental can obtain and use any report or information from a credit reporting agency, which contains information about your individual and commercial credit activities and credit worthiness, to assess your application. By continuing with your application, you agree that Anotec Environmental can exchange with your other credit providers, any credit report or other report about your credit worthiness or history, or personal information contained in those reports, to assess your application.
