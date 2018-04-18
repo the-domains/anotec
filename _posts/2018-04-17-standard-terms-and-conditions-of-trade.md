@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-18T01:27:44.711Z'
-datePublished: '2018-04-18T01:27:45.999Z'
+dateModified: '2018-04-18T01:28:02.321Z'
+datePublished: '2018-04-18T01:28:03.335Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -161,7 +161,7 @@ E) Notwithstanding anything to the contrary herein contained but subject to the 
 
 i) if any guarantee under the Act is applicable to any good or service supplied by Anotec Environmental and Anotec Environmental's liability is due to a failure to comply with the guarantee and such failure cannot be remedied or is a major failure as defined in the Act (each such failure hereafter referred to as a Relevant Failure), Anotec Environmental's liability is as stated in the Act in respect of that Relevant Failure;
 
-if the liability is due to a failure to comply with any condition, warranty or guarantee in respect of any good or service supplied by Anotec Environmental under the Contract and such failure is not a Relevant Failure, Anotec Environmental's liability is limited as follows in respect of such failure:
+ii) if the liability is due to a failure to comply with any condition, warranty or guarantee in respect of any good or service supplied by Anotec Environmental under the Contract and such failure is not a Relevant Failure, Anotec Environmental's liability is limited as follows in respect of such failure:
 
 (A) if the failure is in respect of goods, Anotec Environmental's liability is limited to replacement of the goods or the supply of equivalent goods, the repair of the goods, payment of the cost of replacing the goods or of acquiring equivalent goods, or payment of the cost of having the goods repaired, as determined by Anotec Environmental in its sole discretion; and
 
