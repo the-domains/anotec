@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-18T01:39:54.439Z'
-datePublished: '2018-04-18T01:39:55.553Z'
+dateModified: '2018-04-18T01:43:52.544Z'
+datePublished: '2018-04-18T01:43:53.922Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -145,7 +145,7 @@ b) The Purchaser acknowledges, agrees, represents and warrants that:
 
 i) as the use of the goods is outside the control of Anotec Environmental, the Purchaser is satisfied that the goods when supplied in accordance with clause 7a) will have the condition, characteristics, quality and attributes that will make them suitable or fit for any ordinary or special purpose required for those goods, even if that purpose is made known to Anotec Environmental at any time;
 
-ii) the Purchaser has or will in a timely manner conduct all mandatory or prudent tests and apply all mandatory or prudent quality control checks and procedures to ensure the goods and any product that is produced from them will be without defect and suitable or fit for any purpose required for them; and
+ii) the Purchaser has or will in a timely manner (usually 7 days) conduct all mandatory or prudent tests and apply all mandatory or prudent quality control checks and procedures to ensure the goods and any product that is produced from them will be without defect and suitable or fit for any purpose required for them; and
 
 iii) the Purchaser has not relied upon any statement, representation, warranty, guarantee, condition, advice, recommendation, information, assistance or service provided or given by Anotec Environmental or anyone on its behalf in respect of the goods, other than those that are expressly contained in the Contract.
 
