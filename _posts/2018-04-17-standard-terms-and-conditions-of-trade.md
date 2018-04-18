@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Effective as at 1 July 2014
-dateModified: '2018-04-17T22:49:44.866Z'
-datePublished: '2018-04-17T22:49:46.888Z'
+dateModified: '2018-04-18T01:24:50.583Z'
+datePublished: '2018-04-18T01:24:52.022Z'
 title: STANDARD TERMS AND CONDITIONS OF TRADE
 author: []
 publisher: {}
@@ -139,7 +139,7 @@ cvi) This clause 6 will survive the termination of the Contract to the extent pe
 
 7\. WARRANTIES AND EXCLUSIONS OF LIABILITY
 
-a) The Company warrants that the goods when delivered to the Purchaser will comply with any description for the goods contained in the relevant Sales Confirmation (if any) and with the Standard Specification for the goods. Anotec Environmental is not required to supply goods with any specification or characteristics that are outside any such description for the goods (if any) or the Standard Specifications.
+a) The Company warrants that the goods when delivered to the Purchaser will comply with any description for the goods contained in theinformation. Anotec Environmental is not required to supply goods with any specification or characteristics that are outside any such description for the goods (if any) or the Standard Specifications.
 
 b) The Purchaser acknowledges, agrees, represents and warrants that:
 
@@ -149,9 +149,7 @@ ii) the Purchaser has or will in a timely manner conduct all mandatory or pruden
 
 iii) the Purchaser has not relied upon any statement, representation, warranty, guarantee, condition, advice, recommendation, information, assistance or service provided or given by Anotec Environmental or anyone on its behalf in respect of the goods, other than those that are expressly contained in the Contract.
 
-c) The Purchaser releases and indemnifies Anotec Environmental and its officers, employees, consultants and agents from and against all actions, claims, proceedings and demands (including those brought by third parties) which may be brought against it or them, whether on their own or jointly with the Purchaser and whether at common law, under tort (including negligence), in equity, pursuant to statute or otherwise, in respect of any loss, death, injury,
-
-illness, cost or damage arising out of any breach by the Purchaser of any warranty provided by it under paragraph b) of this clause.
+c) The Purchaser releases and indemnifies Anotec Environmental and its officers, employees, consultants and agents from and against all actions, claims, proceedings and demands (including those brought by third parties) which may be brought against it or them, whether on their own or jointly with the Purchaser and whether at common law, under tort (including negligence), in equity, pursuant to statute or otherwise, in respect of any loss, death, injury, illness, cost or damage arising out of any breach by the Purchaser of any warranty provided by it under paragraph b) of this clause.
 
 d) Except as expressly set out in the Contract and except for liability under any Prescribed Terms, to the full extent permitted by law:
 
