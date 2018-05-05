@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: Toll Manufacture
-dateModified: '2017-09-13T06:27:49.905Z'
-datePublished: '2017-09-13T06:27:50.655Z'
+dateModified: '2018-05-05T09:53:58.623Z'
+datePublished: '2018-05-05T09:53:59.773Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-09-13-toll-manufacture.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-13T06:24:49.202Z'
+url: toll-manufacture/index.html
 _type: Blurb
 
 ---
