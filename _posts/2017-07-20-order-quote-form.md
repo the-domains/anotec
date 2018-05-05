@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Order / Quote form
-dateModified: '2017-07-20T22:16:24.903Z'
-datePublished: '2017-07-20T22:16:25.781Z'
+dateModified: '2018-05-05T10:28:42.479Z'
+datePublished: '2018-05-05T10:28:43.488Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-20T22:02:11.546Z'
 url: order-quote-form/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Order / Quote form
