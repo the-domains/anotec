@@ -1,18 +1,18 @@
 ---
-datePublished: '2017-04-06T05:43:31.166Z'
+datePublished: '2018-05-05T09:53:34.336Z'
 sourcePath: _posts/2016-10-05-safety-data-sheets.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-06T05:43:30.171Z'
+dateModified: '2018-05-05T09:53:32.652Z'
 title: Safety data sheets
 publisher: {}
 description: 'click on contact us '
 starred: false
 datePublishedOriginal: '2016-10-05T21:47:24.917Z'
 url: safety-data-sheets/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Safety data sheets
