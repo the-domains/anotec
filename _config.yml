@@ -44,7 +44,7 @@ navigation:
   - name: Odour Control
     id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
-  - name: Order Now
+  - name: Order
     id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
     type: content
   - name: Raw Materials
@@ -77,19 +77,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2e8aab6-2200-4b9a-b5c0-e771a71c4206.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
