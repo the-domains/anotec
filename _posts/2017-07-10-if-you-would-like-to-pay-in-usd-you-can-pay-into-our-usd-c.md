@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'If you would like to pay in USD , you can pay into our USD clearing account.'
-dateModified: '2017-07-10T13:37:54.002Z'
-datePublished: '2017-07-10T13:37:55.548Z'
+dateModified: '2018-05-05T10:24:46.121Z'
+datePublished: '2018-05-05T10:24:47.186Z'
 title: ''
 author: []
 publisher: {}
@@ -35,3 +35,5 @@ Account Number: 8901309192
 Account Name: Western Union Business Solutions
 
 For Credit of : Anotec Environmental Pty Ltd (26500-AS)
+
+Pay by ETF PayPal Crypto
