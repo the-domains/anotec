@@ -2,12 +2,12 @@
 inFeed: false
 description: >-
   A highly concentrated water soluble liquid phase odour control formulation.
-  Anotec PRO5L is intended for use as a liquid additive to malodorous (smelly)
-  solutions and acts as an odour profiling agent. Odours inherent in any base
-  product are significantly reduced and/or eliminated without affecting the
-  efficacy or chemistry of the client’s product.
-dateModified: '2018-05-12T02:55:29.030Z'
-datePublished: '2018-05-12T02:55:30.192Z'
+  Anotec PRO5L BTR is intended for use as a liquid additive to malodorous
+  (smelly) solutions and acts as an odour profiling agent. Odours inherent in
+  any base product are significantly reduced and/or eliminated without affecting
+  the efficacy or chemistry of the client’s product.
+dateModified: '2018-05-12T02:55:39.317Z'
+datePublished: '2018-05-12T02:55:40.496Z'
 title: Bitumen Odour Control (PRO5L btr)
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Blurb
 # **Bitumen Odour Control (PRO5L btr)**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/adc0f991e4ff033aae5e85c5f3cf2ae64439836a.png)
 
-A highly concentrated water soluble liquid phase odour control formulation. Anotec PRO5L is intended for use as a liquid additive to malodorous (smelly) solutions and acts as an odour profiling agent. Odours inherent in any base product are significantly reduced and/or eliminated without affecting the efficacy or chemistry of the client's product.
+A highly concentrated water soluble liquid phase odour control formulation. Anotec PRO5L BTR is intended for use as a liquid additive to malodorous (smelly) solutions and acts as an odour profiling agent. Odours inherent in any base product are significantly reduced and/or eliminated without affecting the efficacy or chemistry of the client's product.
 
 ## Bitumen is odorous
 
