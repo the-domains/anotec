@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Contact Us
-dateModified: '2018-05-05T09:55:36.242Z'
-datePublished: '2018-05-05T09:55:37.609Z'
+dateModified: '2018-05-12T02:52:03.890Z'
+datePublished: '2018-05-12T02:52:06.114Z'
 title: ''
 author: []
 publisher: {}
@@ -48,12 +48,6 @@ john@anotec.com.au
 ORDER LINE : +612 9700 1222
 
 ---
-
-## Queensland
-
-Vince Foley **mobile** 0408 444 760
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XKTczMKcm3Kk4tKstMTnVIzMsvSU3WS87P1UssVbIrS8vPSa10KE8sSS1Ky8mHSdjoJ9oBACi0GBU" height="244" style=""></iframe>
 
 [Order now ][0]
 
