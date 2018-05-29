@@ -3,12 +3,9 @@ inFeed: false
 description: >-
   Step outside after the first storm after a dry spell and it invariably hits
   you: the sweet, fresh, powerfully evocative smell of fresh rain.
-dateModified: '2018-05-29T23:22:54.752Z'
-datePublished: '2018-05-29T23:22:55.764Z'
-title: >-
-  What Makes Rain Smell So Good?A mixture of plant oils, bacterial spores and
-  ozone is responsible for the powerful scent of fresh rain. Image via Wikimedia
-  Commons/Juni
+dateModified: '2018-05-29T23:23:32.500Z'
+datePublished: '2018-05-29T23:23:33.329Z'
+title: What Makes Rain Smell So Good?
 author: []
 publisher: {}
 via: {}
@@ -25,7 +22,9 @@ _type: Blurb
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa3bef1-4484-42e3-8bea-231a7612bb13.jpg)
 
-# What Makes Rain Smell So Good?A mixture of plant oils, bacterial spores and ozone is responsible for the powerful scent of fresh rain. Image via Wikimedia Commons/Juni
+# What Makes Rain Smell So Good?
+
+### A mixture of plant oils, bacterial spores and ozone is responsible for the powerful scent of fresh rain. 
 
 Step outside after the first storm after a dry spell and it invariably hits you: the sweet, fresh, powerfully evocative smell of fresh rain.
 
