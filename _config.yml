@@ -1,6 +1,25 @@
-typography_spectrum: 0.7518243679988871
-content_rating:
-  adult: false
+name: 'Anotec Environmental '
+analytics:
+  google: UA-97060531-1
+purpose:
+  - type: contact
+    url: 'tel:0297001222'
+    label: Call 02 9700 1222
+  - type: contact
+    url: 'mailto:service@anotec.com.au'
+    label: Contact us
+github: true
+description: 'the source of the chemistry of odour control '
+cta:
+  bucket: null
+  version: null
+  domain: null
+author:
+  name: >-
+    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
+    John Zavras 
+  url: 'http://anotec.com.au'
+  email: john@anotec.com.au
 color:
   lightness: 0.07187174894496579
   brandColors:
@@ -12,62 +31,45 @@ color:
   saturation: 0.43360413486977095
   brandStrength: 0.23445747541005513
   rhythmicContrast: 0.27744282678783977
-github: true
-opengraph: {}
 layout_spectrum: 0.6790474465488466
-analytics:
-  google: UA-97060531-1
-author:
-  name: >-
-    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
-    John Zavras 
-  url: 'http://anotec.com.au'
-  email: john@anotec.com.au
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
-name: 'Anotec Environmental '
-url: 'https://thegrid.ai/anotec'
-cta:
-  bucket: null
-  version: null
-  domain: null
 navigation:
-  - name: About Us
-    id: 8e789427-bb1d-4784-b182-13e4246552e4
+  - id: 8e789427-bb1d-4784-b182-13e4246552e4
+    name: About Us
     type: content
-  - name: Contact Us
-    id: daabb6ca-b757-4121-a3e3-0ad913899025
+  - id: daabb6ca-b757-4121-a3e3-0ad913899025
+    name: Contact Us
     type: content
-  - name: 'Safety Data '
-    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+  - id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
+    name: 'Safety Data '
     type: content
-  - name: Odour Control
-    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+  - id: 68da98c8-b660-4265-8a3d-0de96e44dd65
+    name: Odour Control
     type: content
-  - name: Order
-    id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
+  - id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
+    name: Order
     type: content
-  - name: Raw Materials
-    id: 657107fc-abe7-4fb7-99a9-0fcb8c6a675e
+  - id: 657107fc-abe7-4fb7-99a9-0fcb8c6a675e
+    name: Raw Materials
     type: content
-  - name: Terms
-    id: b82bbc2a-4a68-46dd-afca-196e4ba55053
+  - id: b82bbc2a-4a68-46dd-afca-196e4ba55053
+    name: Terms
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Anotec Environmental Pty Ltd
+    permalink:
+      path: '/:title/'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
+content_rating:
+  adult: false
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -78,29 +80,26 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa3bef1-4484-42e3-8bea-231a7612bb13.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+typography_spectrum: 0.7518243679988871
 coverPrefs:
   filter: false
-description: 'it''s the chemistry of odours '
-purpose:
-  - type: contact
-    url: 'tel:0297001222'
-    label: Call 02 9700 1222
-  - type: contact
-    url: 'mailto:service@anotec.com.au'
-    label: Contact us
+title: Anotec Environmental Pty Ltd
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bde917-b1ac-486f-9e2e-7b79e178eac3.jpg
+url: 'https://thegrid.ai/anotec'
