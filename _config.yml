@@ -70,7 +70,32 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f226b0bc-a6ed-4645-82d5-4eb52d34da70.png
 content_rating:
   adult: false
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c31c62ec-a06b-425d-aef2-83c12c866350.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c31c62ec-a06b-425d-aef2-83c12c866350.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 typography_spectrum: 0.7518243679988871
 coverPrefs:
   filter: false
