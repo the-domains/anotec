@@ -16,7 +16,7 @@ cta:
   domain: null
 author:
   name: >-
-    2/112 Dunheved Circuit St Marys 2760 NSW Australia   service@anotec.com.au 
+    4 Columbia Court, Baulkham Hills , NSW Australia   service@anotec.com.au 
     John Zavras 
   url: 'http://anotec.com.au'
   email: john@anotec.com.au
@@ -33,26 +33,26 @@ color:
   rhythmicContrast: 0.27744282678783977
 layout_spectrum: 0.6790474465488466
 navigation:
-  - id: 8e789427-bb1d-4784-b182-13e4246552e4
-    name: About Us
+  - name: About Us
+    id: 8e789427-bb1d-4784-b182-13e4246552e4
     type: content
-  - id: daabb6ca-b757-4121-a3e3-0ad913899025
-    name: Contact Us
+  - name: Contact Us
+    id: daabb6ca-b757-4121-a3e3-0ad913899025
     type: content
-  - id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
-    name: 'Safety Data '
+  - name: 'Safety Data '
+    id: cf55e2ff-1719-4f4d-a333-3c36e9c49b89
     type: content
-  - id: 68da98c8-b660-4265-8a3d-0de96e44dd65
-    name: Odour Control
+  - name: Odour Control
+    id: 68da98c8-b660-4265-8a3d-0de96e44dd65
     type: content
-  - id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
-    name: Order
+  - name: Order
+    id: 8ac02e7c-ac96-4c00-b46e-48b941fd4f2d
     type: content
-  - id: 657107fc-abe7-4fb7-99a9-0fcb8c6a675e
-    name: Raw Materials
+  - name: Raw Materials
+    id: 657107fc-abe7-4fb7-99a9-0fcb8c6a675e
     type: content
-  - id: b82bbc2a-4a68-46dd-afca-196e4ba55053
-    name: Terms
+  - name: Terms
+    id: b82bbc2a-4a68-46dd-afca-196e4ba55053
     type: content
 collections:
   - index:
@@ -112,7 +112,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
